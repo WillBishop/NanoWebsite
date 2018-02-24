@@ -102,6 +102,10 @@ ul.navig li a:hover,.active{
 	border-bottom:none;
 	}
 }
+/*----forms-----*/
+form {
+  text-align: center;
+}
 /*----slider----*/
 .header{
 	background-color: #3498db;
