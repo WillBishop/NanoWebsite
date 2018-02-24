@@ -75,7 +75,7 @@ ul.navig li a:hover,.active{
 	}
 	ul.navig{
 		display: none;
-		background: rgba(15, 133, 120, 0.5);
+		background-color: #2980b9;
 		text-align:center;
 	}
 	ul.navig li{
