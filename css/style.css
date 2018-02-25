@@ -9,6 +9,7 @@ html, body{
     font-size: 100%;
   	 background: #FFf;
 }
+
 body a{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -556,7 +557,7 @@ h5{
 /*------//portfolio------------*/
 .footer{
 	padding: 1em 0;
-	background: #000000;
+	background: #3498db;
 }
 .copy-right {
 	text-align:center;
@@ -569,7 +570,7 @@ h5{
 	font-weight: 400;
 }
 .copy-right p a{
-	color:#0F8578;
+	color:#ffffff;
 }
 .copy-right p a:hover{
 	color: #fff;
