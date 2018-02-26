@@ -504,6 +504,13 @@ h5{
 	background:none;
 	border: 1px solid #3B5998;
 }
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  background-color:#2980b9;
+  height: 1px;
+}
 .span3 {
 	display: block;
 	background: #00aced; /* Old browsers */
