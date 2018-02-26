@@ -3,7 +3,7 @@ var VERSION = 'version_01'              // Version of the off-line cache (change
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
   'images/',                     // If you have separate JS/CSS files,
-  '/{repository}/index.html'            // add path to those files here
+  '/NanoWebsite/index.html'            // add path to those files here
 ]
 
 // Respond with cached resources
