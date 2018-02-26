@@ -75,6 +75,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!----//End-top-nav-script---->
 </head>
 <body>
+	<script>
+  // register ServiceWorker, remember to use absolute path!
+	  if (navigator.serviceWorker) {
+	    navigator.serviceWorker.register('sw.js', {scope: '/'})
+	  }
+  
+  // --- Application code here ---
+	</script>
 	<!----- start-header---->
 	<div class="header" id="home">
 		<div class="container">
