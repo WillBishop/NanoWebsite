@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Support" 
+date:   2018-04-18 11:59:59 +0930
+categories: nano support
+---
+
+Sorry to hear Nano is working as you'd expect!
+
+Before contacting me, try these suggestions
+
+# FAQ
+
+* "I purchased Pro, but it isn't showing on the Watch"
+* - Sorry to hear your Pro purchase didn't go to plan, but I believe I can help you! On the iOS app with the watchOS app open, go to the Pro section. If you see confetti fall, this confirms that **you have purchased pro**. Now tap out of the Pro section and go to your subscriptions to confirm all your subscriptions and favorites etc have loaded. Now things should be in order, on the Watch force touch and click "Change Subreddit" and see if your subscriptions show up. NOTE: If you were already in the "Change Subreddit" section, you'll need to back out and go back in.
+* "I can't log connect to Reddit"
+* - "It works on the Watch but not on the iPhone"
+* - - This is one of those bugs that has been troublesome to deal with. In my own testing, I've found reinstalling the app can fix it. Alternatively, disable WiFi and connect to your Watch over Bluetooh.
+* - "It is looping on the setup page"
+* - - Again, a troublesome issue. The potential solutions above may help.
+
+
+#If the above didn't work:
+If you have an issue listed above but the solutions didn't work, or you'd like to report another bug, here's how you can do so:
+- [Tweet at me](https://twitter.com/NanoReddit)
+- [Join the Discord](https://discord.io/nano)
+- [Message me on Reddit](https://www.reddit.com/message/compose?to=123icebuggy&subject=Nano%20Support)
+- [Email me](mailto:nano@willbish.com?subject=Nano%20Support)
+- [Post on the subreddit](https://reddit.com/r/Nanoapp)
+
+I've made so many options available so no matter what service you use, you'll be able to contact me!
