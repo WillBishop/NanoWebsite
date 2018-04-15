@@ -20,7 +20,7 @@ Before contacting me, try these suggestions
 * - - Again, a troublesome issue. The potential solutions above may help.
 
 
-#If the above didn't work:
+# If the above didn't work:
 If you have an issue listed above but the solutions didn't work, or you'd like to report another bug, here's how you can do so:
 - [Tweet at me](https://twitter.com/NanoReddit)
 - [Join the Discord](https://discord.io/nano)
