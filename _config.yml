@@ -17,7 +17,7 @@ title: Nano Blog
 email: nano@willbish.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the home of the Nano Blog. This is where new updates will be posted, technical explanations and more!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # This should be /blog, but Jekyll is weird
 url: "https://nanoreddit.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nanoreddit
 github_username:  WillBishop
