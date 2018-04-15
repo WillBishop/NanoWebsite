@@ -24,7 +24,7 @@ Before contacting me, try these suggestions
 If you have an issue listed above but the solutions didn't work, or you'd like to report another bug, here's how you can do so:
 - [Tweet at me](https://twitter.com/NanoReddit)
 - [Join the Discord](https://discord.io/nano)
-- [Message me on Reddit](https://www.reddit.com/message/compose?to=123icebuggy&subject=Nano%20Support)
+- [Message me on Reddit](https://www.reddit.com/message/compose?to=willrb&subject=Nano%20Support)
 - [Email me](mailto:nano@willbish.com?subject=Nano%20Support)
 - [Post on the subreddit](https://reddit.com/r/Nanoapp)
 
