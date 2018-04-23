@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Nao!⌚" 
+title:  "Welcome to Nano!⌚" 
 date:   2018-04-18 12:00:00 +0930
 categories: nano release
 ---
